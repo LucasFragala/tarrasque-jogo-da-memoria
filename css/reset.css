@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'coronos' ;
+  src: url('centurion.ttf') format('truetype'),('opentype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  border: none;
+  font-family: 'coronos';
+}
